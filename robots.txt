@@ -6,4 +6,4 @@ Disallow: /admin/
 Disallow: /cgi-bin/
 Disallow: /wp-admin/
 
-
+sitemap: https://shell-shocker.github.io/sitemap.xml
